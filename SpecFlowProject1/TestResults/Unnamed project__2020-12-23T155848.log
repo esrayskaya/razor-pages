@@ -1,0 +1,30 @@
+﻿2020-12-23T15:58:48.7190798+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-12-23T15:58:48.7192540+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.5.8 in Framework netcore31 in x64 mode execution started
+2020-12-23T15:58:48.7192575+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Lena\Desktop\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-12-23T15:58:48.7232669+03:00;VSTestExecutionThread;Info;Current UserName: 'Lena', MachineName: 'DESKTOP-M0QQK3G'
+2020-12-23T15:58:48.7737426+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Lena\Desktop\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-12-23T15:58:48.7741740+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Lena\Desktop\SpecFlowProject1\TestResults" (default)
+2020-12-23T15:58:48.7743275+03:00;VSTestExecutionThread;Info;Profile: 
+2020-12-23T15:58:48.8971401+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Lena\Desktop\SpecFlowProject1\TestResults\Unnamed project__2020-12-23T155848.log
+2020-12-23T15:58:48.9026101+03:00;Thread#12;Info;Checking activation
+2020-12-23T15:59:11.2550926+03:00;Thread#7;Error;Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+2020-12-23T15:59:32.4569317+03:00;Thread#7;Error;Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+2020-12-23T15:59:53.6193418+03:00;Thread#16;Error;Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+2020-12-23T15:59:53.6216733+03:00;Thread#12;Error;****************************************************************************************************************
+2020-12-23T15:59:53.6225769+03:00;Thread#12;Error;*                                           SpecFlow+ Runner                                                   *
+2020-12-23T15:59:53.6227166+03:00;Thread#12;Error;****************************************************************************************************************
+2020-12-23T15:59:53.6231370+03:00;Thread#12;Error;Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+2020-12-23T15:59:53.6233801+03:00;Thread#12;Error;https://account.specflow.org/clientactivation/welcome/Runner/3875FF8EFA244BC59167E31D3CB954FB453430E19029F53D74724AC4D12D8CCB76317D5D/NotActivatedYet
+2020-12-23T15:59:53.6235829+03:00;Thread#12;Error;to execute your Scenarios again.
+2020-12-23T15:59:53.6239212+03:00;Thread#12;Error;If you are reading this message on a build agent, we couldn't recognize the agent.
+2020-12-23T15:59:53.6240967+03:00;Thread#12;Error;Please get in touch with us at support@specflow.org.
+2020-12-23T15:59:53.6242938+03:00;Thread#12;Error;****************************************************************************************************************
+2020-12-23T15:59:53.6274932+03:00;Thread#12;Error;No tests executed (activation needed)
+2020-12-23T15:59:53.6463198+03:00:Total: 0
+2020-12-23T15:59:53.6495864+03:00:Succeeded: 0
+2020-12-23T15:59:53.6532233+03:00:Ignored: 0
+2020-12-23T15:59:53.6536946+03:00:Pending: 0
+2020-12-23T15:59:53.6545676+03:00:Skipped: 0
+2020-12-23T15:59:53.6549428+03:00:Failed: 0
+2020-12-23T15:59:53.6633263+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========
